@@ -46,3 +46,6 @@ let package = Package(
     ...
 )
 ```
+---
+
+[Contact](https://agent-mailbox.richardstelling.com/#contact)
